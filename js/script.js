@@ -1,4 +1,4 @@
-// Jyaba Devs - Main JavaScript
+// Developers Community Pokhara - Main JavaScript
 
 document.addEventListener('DOMContentLoaded', function () {
   // Mobile menu toggle
